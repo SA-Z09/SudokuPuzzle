@@ -1,6 +1,5 @@
 # SudokuPuzzle
-
-This is a project i did when i was learning Python 
+This a begineer friendly project
 
 So basically I wanted to represent a sudoku pattern
 
