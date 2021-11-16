@@ -1,6 +1,7 @@
   # Firstly, finding the next empty row and column on the board  and return -1
     # If no space is left and entire board is filled then return row and column tuple 
  # our range is 0-8 
+from pprint import pprint
 def find_next_empty(puzzle):
 
     for r in range(9):  
